@@ -1,4 +1,4 @@
-module github.com/andrewsjgy/pro-bing
+module github.com/andrewsjg/pro-bing
 
 go 1.18
 
