@@ -1,4 +1,4 @@
-module github.com/prometheus-community/pro-bing
+module github.com/andrewsjgy/pro-bing
 
 go 1.18
 
